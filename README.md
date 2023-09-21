@@ -6,3 +6,9 @@ This repo is for storing various notebooks for AI and fun stuff
 
 Creates a realistic sounding voice from text.
 
+
+
+## Notable models and spaces 
+
+https://huggingface.co/spaces/stabilityai/stable-diffusion
+https://huggingface.co/spaces/facebook/MusicGen

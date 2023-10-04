@@ -11,5 +11,8 @@ Creates a realistic sounding voice from text.
 ## Notable models and spaces 
 
 https://huggingface.co/spaces/stabilityai/stable-diffusion  
+
 https://huggingface.co/spaces/facebook/MusicGen  
+
 https://huggingface.co/spaces/williamcfrancis/Deep-Blind-Motion-Deblurring  
+
